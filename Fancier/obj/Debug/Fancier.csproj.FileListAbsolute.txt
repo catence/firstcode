@@ -1,0 +1,6 @@
+c:\users\cynthia wambui\documents\visual studio 2013\Projects\Fancier\Fancier\bin\Debug\Fancier.exe.config
+c:\users\cynthia wambui\documents\visual studio 2013\Projects\Fancier\Fancier\bin\Debug\Fancier.exe
+c:\users\cynthia wambui\documents\visual studio 2013\Projects\Fancier\Fancier\bin\Debug\Fancier.pdb
+c:\users\cynthia wambui\documents\visual studio 2013\Projects\Fancier\Fancier\obj\Debug\Fancier.csprojResolveAssemblyReference.cache
+c:\users\cynthia wambui\documents\visual studio 2013\Projects\Fancier\Fancier\obj\Debug\Fancier.exe
+c:\users\cynthia wambui\documents\visual studio 2013\Projects\Fancier\Fancier\obj\Debug\Fancier.pdb
